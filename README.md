@@ -7,3 +7,4 @@
 4. Brute-force Caesar Cipher
 5. Encrypting Transposition Cipher
 6. Decrypting Transposition Cipher
+7. File_cipher
