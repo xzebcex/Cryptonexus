@@ -1,4 +1,4 @@
-# Encrypting Transposition Cipher
+# Transposition Cipher
 
 
 def main():
