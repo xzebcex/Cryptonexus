@@ -8,3 +8,4 @@
 5. Encrypting Transposition Cipher
 6. Decrypting Transposition Cipher
 7. File_cipher
+8. Image Background Remover
